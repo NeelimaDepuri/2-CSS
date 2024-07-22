@@ -1,0 +1,9 @@
+body{background-color: rgb(156, 228, 228);}
+body{font-family:Verdana, Geneva, Tahoma, sans-serif;}
+body,h1,h3,h4,ol,ul{margin:5;padding:5;}
+h1{background-color: rgb(123, 189, 247);font-style: italic;}
+h3{background-color: rgb(9, 158, 108);}
+h4{background-color: rgb(211, 128, 26);}
+p{background-color: rgb(219, 145, 213);}
+ol{list-style-type: lower-greek;}
+ul{list-style-type:lower-roman;}
